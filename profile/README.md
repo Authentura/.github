@@ -1,4 +1,4 @@
-![Authentura logo](https://nextcloud.authentura.com/s/44ytRWdG3y96dRL/download/authentura%20logo%20light%20no%20gradient.svg)
+![Authentura logo](https://nextcloud.authentura.com/s/7DzAfsxpsBFigpt/download/authentura%20logo%20bordered.png)
 
 # Welcome to the GitHub profile for Authentura!
 
